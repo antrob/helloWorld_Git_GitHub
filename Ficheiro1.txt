@@ -1,0 +1,5 @@
+﻿ESte é um novo ficheiro criado no meu Projecto.
+
+Vou lhe chamar Ficheiro 1. 
+
+Imagihnem que estou a usar uma Implementação com ARRAYS!  
